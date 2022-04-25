@@ -1,2 +1,2 @@
 # Business_Intelligence
-Nesse projeto usei meus conhecimentos para para promover uma visão ampla de negocio.
+Nesse projeto usei meus conhecimentos para promover uma visão ampla de negocio.
